@@ -372,7 +372,7 @@
          -->
     <string translatable="false" name="config_mainBuiltInDisplayCutout">
         M 0, 0
-        H 44
+        H 64
         V 44
         H 0
         L 0, 0
